@@ -1,5 +1,5 @@
 {
-  "name": "PicUploadServer",
+  "name": "pic-upload-server",
   "version": "1.0.0",
   "description": "A simple server allowing uploading and viewing of pictures",
   "main": "index.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamwhi/node-pic-uploader.git"
+    "url": "https://github.com/jamwhi/pic-upload-server.git"
   },
   "author": "James White <jamesgeewhite@gmail.com> (https://github.com/jamwhi)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jamwhi/node-pic-uploader/issues"
+    "url": "https://github.com/jamwhi/pic-upload-server/issues"
   },
-  "homepage": "https://github.com/jamwhi/node-pic-uploader"
+  "homepage": "https://github.com/jamwhi/pic-upload-server"
 }
