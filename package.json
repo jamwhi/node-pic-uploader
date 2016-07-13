@@ -1,0 +1,26 @@
+{
+  "name": "PicUploadServer",
+  "version": "1.0.0",
+  "description": "A simple server allowing uploading and viewing of pictures",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {
+    "formidable": "^1.0.17"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamwhi/node-pic-uploader.git"
+  },
+  "author": "James White <jamesgeewhite@gmail.com> (https://github.com/jamwhi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamwhi/node-pic-uploader/issues"
+  },
+  "homepage": "https://github.com/jamwhi/node-pic-uploader"
+}
