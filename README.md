@@ -11,12 +11,12 @@ Built in Node
 
 ### Installation
 
-'npm install pic-upload-server'
+`npm install pic-upload-server`
 
 ### Usage
 
 Navigate to installation path and run in node
 
-'node index.js'
+`node index.js`
 
 Navigate in your browser to http://127.0.0.1:8888
